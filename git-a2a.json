@@ -1,21 +1,21 @@
 {
-  "version": "1.0.0",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/neprel/git-a2a/releases/download/v1.0.0/git-a2a_scoop_1.0.0_windows_amd64.zip",
-      "bin": [
-        "git-a2a.exe"
-      ],
-      "hash": "be55ad19422894792898f02c6be2b4f85b27902cbdbe27339facde28ef5db995"
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/neprel/git-a2a/releases/download/v1.0.0/git-a2a_scoop_1.0.0_windows_amd64.zip",
+            "bin": [
+                "git-a2a.exe"
+            ],
+            "hash": "be55ad19422894792898f02c6be2b4f85b27902cbdbe27339facde28ef5db995"
+        },
+        "arm64": {
+            "url": "https://github.com/neprel/git-a2a/releases/download/v1.0.0/git-a2a_scoop_1.0.0_windows_arm64.zip",
+            "bin": [
+                "git-a2a.exe"
+            ],
+            "hash": "5ae53ff32c150783640ec0b7ad2a07990f27987e6952303418a9d1eb61bb3e8b"
+        }
     },
-    "arm64": {
-      "url": "https://github.com/neprel/git-a2a/releases/download/v1.0.0/git-a2a_scoop_1.0.0_windows_arm64.zip",
-      "bin": [
-        "git-a2a.exe"
-      ],
-      "hash": "5ae53ff32c150783640ec0b7ad2a07990f27987e6952303418a9d1eb61bb3e8b"
-    }
-  },
-  "homepage": "https://github.com/neprel/git-a2a",
-  "description": "Import git modules together with their owning agents"
+    "homepage": "https://github.com/neprel/git-a2a",
+    "description": "Import git modules together with their owning agents"
 }
