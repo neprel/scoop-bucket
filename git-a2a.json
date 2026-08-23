@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/neprel/git-a2a/releases/download/v1.0.0/git-a2a_scoop_1.0.0_windows_amd64.zip",
+            "bin": [
+                "git-a2a.exe"
+            ],
+            "hash": "adfd522a9f18abf5fcd3919543b46c8ff8bd99f73c0e379155dc6b66006cceb2"
+        },
+        "arm64": {
+            "url": "https://github.com/neprel/git-a2a/releases/download/v1.0.0/git-a2a_scoop_1.0.0_windows_arm64.zip",
+            "bin": [
+                "git-a2a.exe"
+            ],
+            "hash": "9b02d12338e78be8cfabec6fc8b39f93f1b1b75120ea45fc34587105c4d9600d"
+        }
+    },
+    "homepage": "https://github.com/neprel/git-a2a",
+    "description": "Import git modules together with their owning agents"
+}
