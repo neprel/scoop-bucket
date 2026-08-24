@@ -1,19 +1,19 @@
 {
-    "version": "1.3.0-rc.2",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/neprel/git-a2a/releases/download/v1.3.0-rc.2/git-a2a_scoop_1.3.0-rc.2_windows_amd64.zip",
+            "url": "https://github.com/neprel/git-a2a/releases/download/v1.3.0/git-a2a_scoop_1.3.0_windows_amd64.zip",
             "bin": [
                 "git-a2a.exe"
             ],
-            "hash": "e6e716ee47dafe1f866c2a2e77d571ea2b05a9d223a9107236a5667a3cc611e5"
+            "hash": "960c0f6bc344427e6557e91ab41ca12297e986c184bd5194bd20d7ea839afe1f"
         },
         "arm64": {
-            "url": "https://github.com/neprel/git-a2a/releases/download/v1.3.0-rc.2/git-a2a_scoop_1.3.0-rc.2_windows_arm64.zip",
+            "url": "https://github.com/neprel/git-a2a/releases/download/v1.3.0/git-a2a_scoop_1.3.0_windows_arm64.zip",
             "bin": [
                 "git-a2a.exe"
             ],
-            "hash": "2bcd026f38eb694e5e2e8d82eba9894d321948e3037c057cd201e567cd9df66a"
+            "hash": "09a631e9bf75a20246e40a9ee6d32fdb26d969b1278ab1d57d7fba95b72ad284"
         }
     },
     "homepage": "https://github.com/neprel/git-a2a",
