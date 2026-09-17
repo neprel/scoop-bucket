@@ -1,21 +1,21 @@
 {
-    "version": "1.7.1",
+    "version": "2.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/neprel/git-a2a/releases/download/v1.7.1/git-a2a_scoop_1.7.1_windows_amd64.zip",
+            "url": "https://github.com/neprel/git-a2a/releases/download/v2.0.0/git-a2a_scoop_2.0.0_windows_amd64.zip",
             "bin": [
                 "git-a2a.exe"
             ],
-            "hash": "8202555308de68dd29671f7d8b11a4f6b71d98fdc314868d5dc9e27cd4c1e753"
+            "hash": "f8bfece87dc6b24fadbdb906cfe3bcb10aad958276c8675d2db4b3fe4397b429"
         },
         "arm64": {
-            "url": "https://github.com/neprel/git-a2a/releases/download/v1.7.1/git-a2a_scoop_1.7.1_windows_arm64.zip",
+            "url": "https://github.com/neprel/git-a2a/releases/download/v2.0.0/git-a2a_scoop_2.0.0_windows_arm64.zip",
             "bin": [
                 "git-a2a.exe"
             ],
-            "hash": "4ab5d8eda3a3fe794605eb051c180b114bde7b2d06670ca5af2dca5db7e92990"
+            "hash": "40a717c9760c8e0fea52f7e2ab43beaa4bf9051d071d5d0ad04199063760b428"
         }
     },
     "homepage": "https://github.com/neprel/git-a2a",
-    "description": "Import git modules together with their owning agents"
+    "description": "Manage Git component dependencies with their responsible agents"
 }
